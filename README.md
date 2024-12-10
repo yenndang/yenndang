@@ -26,7 +26,7 @@ A mobile app for managing and splitting group expenses with an intuitive UI.
 Interactive physical computing project inspired by mythology and mini-golf mechanics, designed for ARTG3250: Physical Computing at Northeastern University.  
 - Utilizes Arduino-based hardware and creative storytelling elements.  
 
-### 4. [Kanbas Web App (MERN Stack)]  
+### 4. Kanbas Web App (MERN Stack)  
 Mocking the Canvas web app with a focus on streamlined course management for CS4550: Web Development at Northeastern University.  
 - **Frontend:** [kanbas-react-web-app](https://github.com/yenndang/kanbas-react-web-app)  
 - **Backend:** [kanbas-node-server-app](https://github.com/yenndang/kanbas-node-server-app)  
